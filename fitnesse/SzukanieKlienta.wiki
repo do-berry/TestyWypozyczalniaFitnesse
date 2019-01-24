@@ -1,0 +1,11 @@
+---
+Test
+---
+!include DodawanieKlienta
+!|testyfitnessefixture.TestSzukanieKlienta|
+|dane     |szukajKlienta?|
+|0,0,0,0,0|true          |
+|9,0,0,0,0|false         |
+|8,0,0,0,3|false         |
+|2,0,1,0,1|true          |
+|3,0,1,0,1|true          |
