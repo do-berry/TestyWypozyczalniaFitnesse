@@ -3,12 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/sem%20V/IO%20L/TestyWypozyczalniaFitnesse/src/testyfitnessefixture/TestSzukanieFilmu.java</file>
-            <file>file:/C:/sem%20V/IO%20L/TestyWypozyczalniaFitnesse/src/wypozyczalnia/Film.java</file>
-            <file>file:/C:/sem%20V/IO%20L/TestyWypozyczalniaFitnesse/src/testyfitnessefixture/TestDodawanieEgzemplarza.java</file>
-            <file>file:/C:/sem%20V/IO%20L/TestyWypozyczalniaFitnesse/src/testyfitnessefixture/TestDodawanieKlienta.java</file>
-            <file>file:/C:/sem%20V/IO%20L/TestyWypozyczalniaFitnesse/src/wypozyczalnia/Wypozyczalnia.java</file>
-            <file>file:/C:/sem%20V/IO%20L/TestyWypozyczalniaFitnesse/src/testyfitnessefixture/TestDodawanieFilmu.java</file>
+            <file>file:/C:/Users/Dominika/source/repos/TestyWypozyczalniaFitnesse/src/wypozyczalnia/Film.java</file>
+            <file>file:/C:/Users/Dominika/source/repos/TestyWypozyczalniaFitnesse/src/testyfitnessefixture/TestRezerwacja.java</file>
+            <file>file:/C:/Users/Dominika/source/repos/TestyWypozyczalniaFitnesse/src/testyfitnessefixture/TestDodawanieKlienta.java</file>
+            <file>file:/C:/Users/Dominika/source/repos/TestyWypozyczalniaFitnesse/src/testyfitnessefixture/TestDodawanieEgzemplarza.java</file>
+            <file>file:/C:/Users/Dominika/source/repos/TestyWypozyczalniaFitnesse/src/testyfitnessefixture/TestSzukanieFilmu.java</file>
+            <file>file:/C:/Users/Dominika/source/repos/TestyWypozyczalniaFitnesse/src/wypozyczalnia/Wypozyczalnia.java</file>
         </group>
     </open-files>
 </project-private>
