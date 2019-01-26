@@ -6,6 +6,7 @@
 package testyfitnessefixture;
 
 import fit.ColumnFixture;
+import java.time.LocalDate;
 import java.util.Date;
 import java.util.IllegalFormatCodePointException;
 
@@ -15,10 +16,10 @@ import java.util.IllegalFormatCodePointException;
  */
 public class TestRezerwacja extends ColumnFixture {
     String daneFilmu[], daneKlienta[];
-    Date data;
     
     public boolean zlozRezerwacje() {
         try {
+            Date data = new Date();
             String s = SetUp.wypozyczalnia.zlozRezerwacje(daneKlienta[0], daneFilmu, data);
             if (s == "Rezerwacja dodana") return true;
         } catch (IllegalFormatCodePointException e) {}
